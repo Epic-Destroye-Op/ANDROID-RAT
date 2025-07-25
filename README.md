@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```bash  
 python3 android-rat.py  
 ```  
-**Advanced Options**:  
+**Advanced Options (upcoming)**:  
 | Argument          | Description                  | Example                          |  
 |-------------------|------------------------------|----------------------------------|  
 | `--debug`         | Enable debug mode            | `./android-rat.py --debug`       |  
