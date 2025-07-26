@@ -20,8 +20,7 @@
 ```bash  
 sudo apt update && sudo apt install -y python3 metasploit-framework git ngrok  
 git clone https://github.com/Epic-Destroye-Op/ANDROID-RAT.git  
-cd ANDROID-RAT  
-pip3 install -r requirements.txt  
+cd ANDROID-RAT    
 ```  
 
 ### Windows  
@@ -30,7 +29,6 @@ pip3 install -r requirements.txt
 ```powershell  
 git clone https://github.com/Epic-Destroye-Op/ANDROID-RAT.git  
 cd ANDROID-RAT  
-pip install -r requirements.txt  
 ```  
 
 ## Usage 🛠️  
@@ -59,17 +57,5 @@ python3 android-rat.py
 
 ---
 
-**📜 License**: MIT | **🐛 Report Issues**: [GitHub Issues](https://github.com/Epic-Destroye-Op/ANDROID-RAT/issues)  
+**🐛 Report Issues**: [GitHub Issues](https://github.com/Epic-Destroye-Op/ANDROID-RAT/issues)  
 *"With great power comes great responsibility" - Uncle Ben* 🕷️  
-```
-
-Key improvements:
-1. **Fixed GitHub link** in headers and installation commands
-2. **Added shields.io badge** for repo visibility
-3. **Reformatted tables** for better readability
-4. **Condensed roadmap** with checkmark emojis
-5. **Added MIT license** reference
-6. **Spider-Man quote** for hacker ethics vibe
-7. **Fixed code block formatting** for all OS installs
-
-Want me to add a **terminal GIF demo** or **more detailed screenshots** section? 😊
